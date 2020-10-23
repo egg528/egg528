@@ -5,4 +5,4 @@
 
 
 ###baek
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egg528@hanyang.ac.kr)](https://solved.ac/{})
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egg528)](https://solved.ac/{})
