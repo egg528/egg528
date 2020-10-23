@@ -5,4 +5,4 @@
 
 
 ###baek
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egg528)](https://solved.ac/{})
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egghouse)](https://solved.ac/{})
