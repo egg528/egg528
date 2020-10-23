@@ -4,5 +4,5 @@
 
 
 
-###baek
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egghouse)](https://solved.ac/{})
+###baek   
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=egg528a&201020)](https://solved.ac/adamdoha) 
