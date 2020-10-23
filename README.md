@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/rnjsdntjr26)   
-
+[![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/rnjsdntjr26)
 [![contact](https://img.shields.io/badge/-adamdoha@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:adamdoha@naver.com)](mailto:rnjsdntjr26@daum.net)   
 
 
