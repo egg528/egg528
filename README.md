@@ -49,27 +49,27 @@
 
 - Study
 
-  1. 코코아톡 클론 코딩 [(Click to go repo)](https://github.com/egg528/Study_FE_KokoaTalkClone)
+  1. 코코아톡 클론 코딩 [👉](https://github.com/egg528/Study_FE_KokoaTalkClone)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  2. 웹 스크래퍼 클론 코딩 [(Click to go repo)](https://github.com/egg528/Study_WebScraping)
+  2. 웹 스크래퍼 클론 코딩 [👉](https://github.com/egg528/Study_WebScraping)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  3. WorkFlow - GitFlow [(Click to go repo)](https://github.com/egg528/Study_WorkFlow_GitFlow)
+  3. WorkFlow - GitFlow [👉](https://github.com/egg528/Study_WorkFlow_GitFlow)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  4. 에어비앤비 클론 코딩 [(Click to go repo)](https://github.com/egg528/Study_BE_AirbnbClone)
+  4. 에어비앤비 클론 코딩 [👉](https://github.com/egg528/Study_BE_AirbnbClone)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  5. 금융 데이터 분석 [(Click to go repo)](https://github.com/egg528/Study_DataAnalysis_FinanceData)
+  5. 금융 데이터 분석 [👉](https://github.com/egg528/Study_DataAnalysis_FinanceData)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
