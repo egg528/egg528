@@ -1,3 +1,15 @@
+## Hi, there 👋  
+  
+
+-  Im interested in   
+
+
+
+
+
+
+
+
 [![naver blog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/rnjsdntjr26)
 [![contact](https://img.shields.io/badge/-rnjsdntjr26@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:rnjsdntjr26@naver.com)](mailto:rnjsdntjr26@daum.net)   
 
