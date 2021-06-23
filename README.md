@@ -26,7 +26,7 @@
 
 - Project
 
-  1. 재무제표 분석 및 시각화 웹 앱 (졸업작품) [Click](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
+  1. 재무제표 분석 및 시각화 웹 앱 (졸업작품)  [Click](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
