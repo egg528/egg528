@@ -23,17 +23,51 @@
 
 ## Repositories
 
-> Project
->   1. asd
->     >wow
->   2. sda
->   3. 
+
+- Project
+
+  1. [재무제표 분석 및 시각화 웹 앱 (졸업작품)](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
+
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  2. [영화 토론 웹 앱](https://github.com/egg528/ToyProject_HotelManagementWeb)
+
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  3. [호텔 매니지먼트 웹 앱](https://github.com/egg528/ToyProject_HotelManagementWeb)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  4. [To Do List](https://github.com/egg528/ToyProject_ToDoList)
+      
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
 
 
-> Study
->   1. 
->   2. 
->   
+- Study
+
+  1. [코코아톡 클론 코딩](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
+
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  2. [웹 스크래퍼 클론 코딩](https://github.com/egg528/ToyProject_HotelManagementWeb)
+
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  3. [GitFlow](https://github.com/egg528/ToyProject_HotelManagementWeb)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  4. [GitFlow](https://github.com/egg528/ToyProject_HotelManagementWeb)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
 
 
 
