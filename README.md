@@ -31,17 +31,17 @@
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  2. [영화 토론 웹 앱](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  2. 영화 토론 웹 앱 [Click](https://github.com/egg528/ToyProject_HotelManagementWeb)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  3. [호텔 매니지먼트 웹 앱](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  3. 호텔 매니지먼트 웹 앱 [Click](https://github.com/egg528/ToyProject_HotelManagementWeb)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  4. [To Do List](https://github.com/egg528/ToyProject_ToDoList)
+  4. To Do List [Click](https://github.com/egg528/ToyProject_ToDoList)
       
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
@@ -49,37 +49,37 @@
 
 - Study
 
-  1. [코코아톡 클론 코딩](https://github.com/egg528/Study_FE_KokoaTalkClone)
+  1. 코코아톡 클론 코딩 [Click](https://github.com/egg528/Study_FE_KokoaTalkClone)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  2. [웹 스크래퍼 클론 코딩](https://github.com/egg528/Study_WebScraping)
+  2. 웹 스크래퍼 클론 코딩 [Click](https://github.com/egg528/Study_WebScraping)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  3. [WorkFlow - GitFlow](https://github.com/egg528/Study_WorkFlow_GitFlow)
+  3. WorkFlow - GitFlow [Click](https://github.com/egg528/Study_WorkFlow_GitFlow)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  4. [에어비앤비 클론 코딩](https://github.com/egg528/Study_BE_AirbnbClone)
+  4. 에어비앤비 클론 코딩 [Click](https://github.com/egg528/Study_BE_AirbnbClone)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  5. [금융 데이터 분석](https://github.com/egg528/Study_DataAnalysis_FinanceData)
+  5. 금융 데이터 분석 [Click](https://github.com/egg528/Study_DataAnalysis_FinanceData)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  6. [Spring 학습](https://github.com/egg528/Study_BE_Spring)
+  6. Spring 학습 [Click](https://github.com/egg528/Study_BE_Spring)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  7. [알고리즘 훈련](https://github.com/egg528/Study_Algorithm)
+  7. 알고리즘 훈련 [Click](https://github.com/egg528/Study_Algorithm)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
