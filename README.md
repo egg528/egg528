@@ -69,7 +69,7 @@
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  5. 금융 데이터 분석 [👉](https://github.com/egg528/Study_DataAnalysis_FinanceData)
+  5. 금융 데이터 분석 [Click👉](https://github.com/egg528/Study_DataAnalysis_FinanceData)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
