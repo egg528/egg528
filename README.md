@@ -49,7 +49,7 @@
 
 - Study
 
-  1. 코코아톡 클론 코딩 (Click to go repo)](https://github.com/egg528/Study_FE_KokoaTalkClone)
+  1. 코코아톡 클론 코딩 [(Click to go repo)](https://github.com/egg528/Study_FE_KokoaTalkClone)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
