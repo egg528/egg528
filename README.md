@@ -49,25 +49,41 @@
 
 - Study
 
-  1. [코코아톡 클론 코딩](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
+  1. [코코아톡 클론 코딩](https://github.com/egg528/Study_FE_KokoaTalkClone)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  2. [웹 스크래퍼 클론 코딩](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  2. [웹 스크래퍼 클론 코딩](https://github.com/egg528/Study_WebScraping)
 
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  3. [GitFlow](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  3. [WorkFlow - GitFlow](https://github.com/egg528/Study_WorkFlow_GitFlow)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
 
-  4. [GitFlow](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  4. [에어비앤비 클론 코딩](https://github.com/egg528/Study_BE_AirbnbClone)
      
      > Skill: ㄴㅇㄹ
      > 설명: ㄴㅇㄹ
+
+  5. [금융 데이터 분석](https://github.com/egg528/Study_DataAnalysis_FinanceData)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  6. [Spring 학습](https://github.com/egg528/Study_BE_Spring)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
+  7. [알고리즘 훈련](https://github.com/egg528/Study_Algorithm)
+     
+     > Skill: ㄴㅇㄹ
+     > 설명: ㄴㅇㄹ
+
 
 
 
