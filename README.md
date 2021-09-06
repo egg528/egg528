@@ -28,23 +28,27 @@
 
   1. 재무제표 분석 및 시각화 웹 앱 (졸업작품)  [(Click to go repo)](https://github.com/egg528/GraduationProject_FinancialStatementAnalysisWeb)
 
-     > Skill: ㄴㅇㄹ
-     > 설명: ㄴㅇㄹ
+     > Skill: HTML5, TailwindCSS, JS, Ajax, pandas, NumPy, Chart.js, HighChart, Django, MySQL, RDS, AWS Elastic Beanstalk ..
+     > 역할: FE, BE, DB, Data 수집, 배포 등 개발 전 과정
+     > 설명: 2020 주식 대란, 개인 투자자의 올바른 투자 습관을 위한 재무제표 분석 및 시각화 웹 사이트
 
-  2. 영화 토론 웹 앱 [(Click to go repo)](https://github.com/egg528/ToyProject_HotelManagementWeb)
+  2. 영화 토론 웹 앱 [(Click to go repo)](https://github.com/egg528/ToyProject_MovieReviewWeb)
 
-     > Skill: ㄴㅇㄹ
-     > 설명: ㄴㅇㄹ
+     > Skill: HTML5, TailwindCSS, JS, Django, MySQL, OAuth
+     > 역할: FE, BE, DB, Data 수집, 개발 전 과정
+     > 설명: 보다 나은 댓글, 보다 나은 대화를 위한 영화 토론 웹 사이트
 
   3. 호텔 매니지먼트 웹 앱 [(Click to go repo)](https://github.com/egg528/ToyProject_HotelManagementWeb)
      
-     > Skill: ㄴㅇㄹ
-     > 설명: ㄴㅇㄹ
+     > Skill: JSP, CSS, JS, Spring, MyBatis, AWS RDS, AWS EC2
+     > 역할: BE 개발 및 배포
+     > 설명: 회원가입, 방 예약/취소, 포인트 적립, 게시판, 예약 관리, 회원/직원 관리 기능을 가진 호텔 매니지먼트 웹 앱
 
   4. To Do List [(Click to go repo)](https://github.com/egg528/ToyProject_ToDoList)
       
-     > Skill: ㄴㅇㄹ
-     > 설명: ㄴㅇㄹ
+     > Skill: HTML5, CSS, JavaScript
+     > 역할: 개발 전 과정
+     > 설명: 아름다운 사진과 함께 해야할 일을 정리할 수 있는 TO DO LIST 웹 페이지 
 
 
 - Study
