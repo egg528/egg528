@@ -90,7 +90,7 @@
   8. 문장 감성 분류기 학습 [(Click to go repo)](https://github.com/egg528/Study_ML_sentimentClassifier)
      
      > Skill: Python, pandas, NumPy, Pytorch, sklearn, konlpy  
-     > 설명: 프로그래밍 언어 알고리즘 / 자료구조를 활용해 문제 상황을 논리적으로 해결하는 훈련
+     > 설명: 다양한 ML 모델을 활용한 감성 분류기 
 
 
 
