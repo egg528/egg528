@@ -49,7 +49,13 @@
 
 - Aspect : 흩어진 관심사를 모듈화 한 것.
 - Target : Aspect를 적용하는 곳 (클래스, 메서드 .. )
-- Advice : 실질적으로 어떤 일을 해야할 지에 대한 것, 실질적인 부가기능을 담은 구현체
+- Advice : 언제 공통 관심 기능을 핵심 로직에 적용할 지를 정의하고 있다.
+  - Before: 메서드 호출 전
+  - After Returning: 예외 없이 메서드가 실행된 이후
+  - After Throwing: 예외가 발생한 경우 실행한다.
+  - After: 예외 여부와 관계 없이 실행
+  - Around: 메서드 실행, 전, 후, 예외 발생 시점에 실행
+
 - JointPoint : Advice가 적용할 위치
 - PointCut : JointPoint의 상세한 스펙을 정의한 것.
 
@@ -74,4 +80,38 @@ implementation 'org.springframework.boot:spring-boot-starter-aop'
 
 ### 사용법
 
-`@Aspect`
+``` java
+import java.util.Arrays;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.Signature;
+import org.aspectj.lang.annotation.Around;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Pointcut;
+
+// Aspect 어노테이션을 통해 ExeTimeAspect를 Aspect로 등록한다.
+@Aspect
+public class ExeTimeAspect {
+
+    // execution 명시자를 통해 적용 대상을 지정할 수 있다.
+    @Pointcut("execution()")
+    public void target() {}
+
+    // 원하는 시점, Advice를 선택하고 만들어둔 Pointcut을 적용한다.
+    @Around("target()")
+    public Object mesure(ProceedingJoinPoint joinPoint) throws Throwable {
+        long start = System.nanoTime();
+
+        try {
+            Object result = joinPoint.proceed();
+            return result;
+        } finally {
+            long finish = System.nanoTime();
+            Signature sig = joinPoint.getSignature();
+            System.out.println("실행시간: " + (finish - start));
+            System.out.println(joinPoint.getTarget().getClass().getSimpleName());
+            System.out.println(sig.getName() + " " + Arrays.toString(joinPoint.getArgs()));
+        }
+    }
+}
+```
+
