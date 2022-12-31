@@ -90,6 +90,7 @@ import org.aspectj.lang.annotation.Pointcut;
 
 // Aspect 어노테이션을 통해 ExeTimeAspect를 Aspect로 등록한다.
 @Aspect
+@Component
 public class ExeTimeAspect {
 
     // execution 명시자를 통해 적용 대상을 지정할 수 있다.
@@ -102,6 +103,7 @@ public class ExeTimeAspect {
         long start = System.nanoTime();
 
         try {
+          	// 핵심 로직 실행 
             Object result = joinPoint.proceed();
             return result;
         } finally {
@@ -114,4 +116,3 @@ public class ExeTimeAspect {
     }
 }
 ```
-

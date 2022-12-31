@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+}
+
+rootProject.name = 'clean-architecture-template'
+
+includeProject(":domain", "src/domain")
+
+def includeProject(String name, String projectPath) {
+    include(name)
+    project(name).setProjectDir(file(projectPath))
+}
