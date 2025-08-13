@@ -33,12 +33,6 @@ I'm gaining experience as a Backend Developer, primarily working with Java and R
 </details>
 
 <details>
-<summary><strong>Gmarket Seat Reservation System</strong></summary>
-
-- Started as a toy project, used company-wide for 1 year
-</details>
-
-<details>
 <summary><strong>DeveloperMakers 14th Generation</strong></summary>
 
 - Home server setup and admin development
