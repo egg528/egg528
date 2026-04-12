@@ -47,9 +47,9 @@ I'm gaining experience as a Backend Developer, primarily working with Java and R
 </details>
 
 <details>
-<summary><strong>Grafana Dashboard Templates</strong> (2,383 total downloads)</summary>
+<summary><strong>Grafana Dashboard Templates</strong> (21,885 total downloads)</summary>
 
-- [Spring Boot HTTP](https://grafana.com/grafana/dashboards/21308-http/) - 1,411 downloads
-- [Spring Boot Cache](https://grafana.com/grafana/dashboards/21303-cache/) - 490 downloads  
-- [Spring Boot Circuit Breaker](https://grafana.com/grafana/dashboards/21307-circuit-breaker/) - 482 downloads
+- [Spring Boot HTTP](https://grafana.com/grafana/dashboards/21308-http/) - 10,905 downloads
+- [Spring Boot Cache](https://grafana.com/grafana/dashboards/21303-cache/) - 10,178 downloads  
+- [Spring Boot Circuit Breaker](https://grafana.com/grafana/dashboards/21307-circuit-breaker/) - 802 downloads
 </details>
